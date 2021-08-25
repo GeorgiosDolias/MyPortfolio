@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Georgios Dolias</title>
-    <link>https://georgiosdolias.github.io/portfolio/tags/</link>
-    <description>Recent content in Tags on Georgios Dolias</description>
+    <title>Tags on George Dolias</title>
+    <link>https://georgiosdolias.github.io/portfolio23/tags/</link>
+    <description>Recent content in Tags on George Dolias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2019 04:47:59 -0400</lastBuildDate><atom:link href="https://georgiosdolias.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://georgiosdolias.github.io/portfolio23/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>https://georgiosdolias.github.io/portfolio23/tags/python/</link>
+      <pubDate>Wed, 12 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio23/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSP</title>
+      <link>https://georgiosdolias.github.io/portfolio23/tags/tsp/</link>
+      <pubDate>Wed, 12 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio23/tags/tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLSI</title>
+      <link>https://georgiosdolias.github.io/portfolio23/tags/vlsi/</link>
+      <pubDate>Wed, 12 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio23/tags/vlsi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>machine learning</title>
-      <link>https://georgiosdolias.github.io/portfolio/tags/machine-learning/</link>
-      <pubDate>Sun, 24 Mar 2019 04:47:59 -0400</pubDate>
+      <link>https://georgiosdolias.github.io/portfolio23/tags/machine-learning/</link>
+      <pubDate>Sun, 24 Mar 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/tags/machine-learning/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/tags/machine-learning/</guid>
       <description></description>
     </item>
     

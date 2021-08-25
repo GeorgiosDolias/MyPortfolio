@@ -1,134 +1,176 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Professional Portfolio on Georgios Dolias</title>
-    <link>https://georgiosdolias.github.io/portfolio/</link>
-    <description>Recent content in Professional Portfolio on Georgios Dolias</description>
+    <title> Professional Portfolio on George Dolias</title>
+    <link>https://georgiosdolias.github.io/portfolio23/</link>
+    <description>Recent content in  Professional Portfolio on George Dolias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2019 04:47:59 -0400</lastBuildDate><atom:link href="https://georgiosdolias.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://georgiosdolias.github.io/portfolio23/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Project 12: Anomaly detection</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-2/</link>
-      <pubDate>Sun, 24 Mar 2019 04:47:59 -0400</pubDate>
+      <title>Guaranteed TSP solutions in VLSI</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-15/</link>
+      <pubDate>Wed, 12 Aug 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-2/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-15/</guid>
+      <description>In this project, I implemented approaches that perform near-optimal combination of MOS transistors onto Integrated circuits, a process called Very Large Scale Inegration (VLSI). The process of VLSI was examined by using approaches of the known combinatorial optimization problem called Traveling Salesperson Problem (TSP). TSP is described as follows:   Given a set of cities and the distance between each pair of cities, what is the shortest possible tour that visits each city exactly once, and returns to the starting city?</description>
+    </item>
+    
+    <item>
+      <title>Near-Optimal TSP solutions in VLSI</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-14/</link>
+      <pubDate>Sat, 11 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-14/</guid>
+      <description>In this project, I implemented approaches that perform near-optimal combination of MOS transistors onto Integrated circuits, a process called Very Large Scale Inegration (VLSI). The process of VLSI was examined by using approaches of the known combinatorial optimization problem called Traveling Salesperson Problem (TSP). TSP is described as follows:   Given a set of cities and the distance between each pair of cities, what is the shortest possible tour that visits each city exactly once, and returns to the starting city?</description>
+    </item>
+    
+    <item>
+      <title>Optimal TSP solutions in VLSI</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-13/</link>
+      <pubDate>Sat, 27 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-13/</guid>
+      <description>In this project, I implemented approaches that perform optimal combination of MOS transistors onto Integrated circuits, a process called Very Large Scale Inegration (VLSI). The process of VLSI was examined by using approaches of the known combinatorial optimization problem called Traveling Salesperson Problem (TSP). TSP is described as follows:   Given a set of cities and the distance between each pair of cities, what is the shortest possible tour that visits each city exactly once, and returns to the starting city?</description>
+    </item>
+    
+    <item>
+      <title>Anomaly detection</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-12/</link>
+      <pubDate>Sun, 24 Mar 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-12/</guid>
       <description>In this project, I implemented an algortihm which aim was to detect anomalous behaviour in server computers. This was done by taking into account latency (in ms) and throughput (mb/s) of each server response. A Gaussian model was utilised in order to detect anomalous examples in this dataset.  The dataset consisted of unlabeled examples expressing servers behaviour while they were operating. We expected that most of the examples correspond to normal (non-anomalous) values, whereas some of them perform in an anomalous behaviour.</description>
     </item>
     
     <item>
-      <title>Project 10: Collaborating Filtering</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-12/</link>
-      <pubDate>Fri, 22 Mar 2019 04:47:59 -0400</pubDate>
+      <title>Collaborating Filtering</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-10/</link>
+      <pubDate>Fri, 22 Mar 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-12/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-10/</guid>
       <description>The aim of this project was to utilise collaborating filtering in order to create recommender system for movies ratings.  First, I loaded a dataset which consists of movies ratings on a scale of 1 to 5. These ratings are illustrated in Figure 1.
-  Figure 1: Movies ratings   Based on these ratings, several statistics can be calculated, such as average rating of random movie.   Figure 2: Movie average rating   As a next step, several new movies ratings were imported.</description>
+  Figure 1: Movies ratings   Based on these ratings, several statistics can be calculated, such as average rating of random movie.
+  Figure 2: Movie average rating   As a next step, several new movies ratings were imported.</description>
     </item>
     
     <item>
-      <title>Project 9: Principal Component Analysis</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-10/</link>
-      <pubDate>Thu, 21 Mar 2019 04:47:59 -0400</pubDate>
+      <title>Principal Component Analysis</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-9/</link>
+      <pubDate>Thu, 21 Mar 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-10/</guid>
-      <description>In the context of this project, I applied Principal Component Analysis (PCA) in order to create a model that reduces data dimensions and resises images.  Initially, PCA was tested in a 2D dataset, which is shown in Figure1.   Figure 1: Input 2D dataset   The first step is to compute the principal components of the input data. These components can be seen in Figure 2.   Figure 2: Principal components of 2D dataset   Now, input 2D dataset can be projected to the principal components in one dimension, as Figure 3 illustrates.</description>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-9/</guid>
+      <description>In the context of this project, I applied Principal Component Analysis (PCA) in order to create a model that reduces data dimensions and resises images.  Initially, PCA was tested in a 2D dataset, which is shown in Figure1.
+  Figure 1: 2-dimensional dataset   The first step is to compute the principal components of the input data. These components can be seen in Figure 2.
+  Figure 2: Principal components of 2D dataset   Now, input 2D dataset can be projected to the principal components in one dimension, as Figure 3 illustrates.</description>
     </item>
     
     <item>
-      <title>Project 11: Support Vector Machines</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-11/</link>
-      <pubDate>Wed, 13 Mar 2019 04:47:59 -0400</pubDate>
+      <title>Support Vector Machines</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-11/</link>
+      <pubDate>Wed, 13 Mar 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-11/</guid>
-      <description>The goal of this project is to create a model that classifies various types of data. Support Vector Machines consist a well-established technique of machine learning applied in classification tasks.  The first dataset can be seen in Figure 1.   Figure 1: Input dataset 1    Data of two classes can be seperated by a linear decision boundary. Thus, by aplying SVM, data points are linearly seperated as you can see in Figure 2.</description>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-11/</guid>
+      <description>The goal of this project is to create a model that classifies various types of data. Support Vector Machines consist a well-established technique of machine learning applied in classification tasks.  The first dataset can be seen in Figure 1.
+  Figure 1: Input dataset 1    Data of two classes can be seperated by a linear decision boundary. Thus, by aplying SVM, data points are linearly seperated as you can see in Figure 2.</description>
     </item>
     
     <item>
-      <title>Project 5: Regularised Logistic Regression</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-1/</link>
-      <pubDate>Thu, 07 Mar 2019 00:47:59 -0400</pubDate>
+      <title>Regularised Logistic Regression</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-5/</link>
+      <pubDate>Thu, 07 Mar 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-1/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-5/</guid>
       <description>In this project, I predicted whether microchips from a fabrication plant pass quality assurance process (QA). During QA, each microchip goes through various tests to ensure it functions correctly. Such problems belong to classification machine learning approaches.  I had the test results for some microchips on two different tests results on past microchips. A part of the utilised microchips tests as well as the label for each test can be shown in Figure 1.</description>
     </item>
     
     <item>
-      <title>Project 8: K-means clustering</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-3/</link>
-      <pubDate>Wed, 27 Feb 2019 04:47:59 -0400</pubDate>
+      <title>K-means clustering</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-8/</link>
+      <pubDate>Wed, 27 Feb 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-3/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-8/</guid>
       <description>The main purpose of this project was to compress an image via the clustering technique K-means. This was done by taking into account only colours that occur the most in an image. K-means is a known unsupervised machine learning technique for clustering similar data.  The algorithm was first tested in a 2-dimensional dataset, which is visualised in Figure 1.
   Figure 1: 2-dimensional dataset   After that, K-means clustering is applied and after 10 iterations, all data points are assigned to three centroids.</description>
     </item>
     
     <item>
-      <title>Project 7: Neural Networks Learning</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-9/</link>
-      <pubDate>Tue, 19 Feb 2019 04:47:59 -0400</pubDate>
+      <title>Neural Networks Learning</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-7/</link>
+      <pubDate>Tue, 19 Feb 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-9/</guid>
-      <description>The aim of this project was to utilise Neural Networks in order to create a model that predicts handwritten digits from images.  The dimensions of the images used in this project were 40x40 pixels and images contain digits from 0 to 9. A small sample of this dataset is illustrated below.   Figure 1: First 100 digits of dataset   A typical structure of Neural Networks is shown in Figure 2, where information of each images is propagated through units and layers.</description>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-7/</guid>
+      <description>The aim of this project was to utilise Neural Networks in order to create a model that predicts handwritten digits from images.  The dimensions of the images used in this project were 40x40 pixels and images contain digits from 0 to 9. A small sample of this dataset is illustrated below.
+  Figure 1: First 100 digits of dataset   A typical structure of Neural Networks is shown in Figure 2, where information of each images is propagated through units and layers.</description>
     </item>
     
     <item>
-      <title>Project 6: Logistic Regression</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-8/</link>
-      <pubDate>Fri, 08 Feb 2019 04:47:59 -0400</pubDate>
+      <title>Logistic Regression</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-6/</link>
+      <pubDate>Fri, 08 Feb 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-8/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-6/</guid>
       <description>In this project I utilised Logistic Regression in order to create a model that predicts handwritten digits from images.  The dimensions of the images used in this project were 40x40 pixels and images contain digits from 0 to 9. A small sample of this dataset is illustrated below.
   Figure 1: Input Dataset   Since there are 10 different digits, a multi-class classifier must be trained. That means that 10 different logistic regression models have to be trained.</description>
     </item>
     
     <item>
-      <title>Project 4: Regularised Linear Regression</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-7/</link>
-      <pubDate>Thu, 31 Jan 2019 04:47:59 -0400</pubDate>
+      <title>Regularised Linear Regression</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-4/</link>
+      <pubDate>Thu, 31 Jan 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-7/</guid>
-      <description>The goal of this project was to create a model that predicts the amount of water flowing out of a dam. This was done based on the changes of water level in a reservoir.  Visualising input dataset always helps to understand the geometry of data points.   Figure 1: Input Dataset   As a first step, I applied linear fit, which is shown in Figure 2. Nevertheless, we see that the fit is not a good match due to the non-linear pattern of data.</description>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-4/</guid>
+      <description>The goal of this project was to create a model that predicts the amount of water flowing out of a dam. This was done based on the changes of water level in a reservoir.  Visualising input dataset always helps to understand the geometry of data points.
+  Figure 1: Input Dataset   As a first step, I applied linear fit, which is shown in Figure 2. Nevertheless, we see that the fit is not a good match due to the non-linear pattern of data.</description>
     </item>
     
     <item>
-      <title>Project 3: Logistic Regression</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-5/</link>
-      <pubDate>Sun, 27 Jan 2019 04:47:59 -0400</pubDate>
+      <title>Logistic Regression</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-3/</link>
+      <pubDate>Sun, 27 Jan 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-5/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-3/</guid>
       <description>This project intented to create a model that predicts whether a university applicant is going to be accepted or not. This was done by taking into account his/her exams results. In cases like this one, classification machine learning algorithms are utilised.  Initially, input data were plotted in order to decide which decision boundary can be developed.
   Figure 1: Input Dataset   I saw that most points regarding admitted and not admitted applicants are linearly seperable, therefore a linear decision boundary could be applied.</description>
     </item>
     
     <item>
-      <title>Project 2: Linear regression with multiple variables</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-4/</link>
-      <pubDate>Sun, 20 Jan 2019 04:47:59 -0400</pubDate>
+      <title>Linear regression with multiple variables</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-2/</link>
+      <pubDate>Sun, 20 Jan 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-4/</guid>
-      <description>The aim of this project was to predict the prices of houses via linear regression with multiple variables. This was done by taking into account information on recent houses sold and construct a predictive model of housing prices.  The input dataset contains information about the size of each house in square feet, the number of bedrooms, as well as the price of the house.   Figure 1: Input Dataset   Creating the plot of computed cost in each iteration enables us to realise if the training process converges to optimal values.</description>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-2/</guid>
+      <description>The aim of this project was to predict the prices of houses via linear regression with multiple variables. This was done by taking into account information on recent houses sold and construct a predictive model of housing prices.
+The input dataset contains information about the size of each house in square feet, the number of bedrooms, as well as the price of the house.
+  Figure 1: Input Dataset   Creating the plot of computed cost in each iteration enables us to realise if the training process converges to optimal values.</description>
     </item>
     
     <item>
-      <title>Project 1: Linear Regression</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-6/</link>
-      <pubDate>Sun, 13 Jan 2019 04:47:59 -0400</pubDate>
+      <title>Linear Regression</title>
+      <link>https://georgiosdolias.github.io/portfolio23/post/project-1/</link>
+      <pubDate>Sun, 13 Jan 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-6/</guid>
-      <description>In the context of this project, I created a model which aim was to predict profits of a food company considering of branching out to a new city. This was done based on populations from various cities and the profits of outlets established there. In cases like this one, regression machine learning algorithms are utilised.  A visualisation of the input data can be seen in Figure 1.   Figure 1: Input Dataset visualisation   We see that there is a linear relationship between the population of cities and the profits that a restaurant make.</description>
+      <guid>https://georgiosdolias.github.io/portfolio23/post/project-1/</guid>
+      <description>*In the context of this project, I created a model which aim was to predict profits of a food company considering of branching out to a new city. This was done based on populations from various cities and the profits of outlets established there. In cases like this one, regression machine learning algorithms are utilised.
+A visualisation of the input data can be seen in Figure 1.
+  Figure 1: Input Dataset visualisation   We see that there is a linear relationship between the population of cities and the profits that a restaurant make.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://georgiosdolias.github.io/portfolio/contact/</link>
+      <link>https://georgiosdolias.github.io/portfolio23/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://georgiosdolias.github.io/portfolio/contact/</guid>
+      <guid>https://georgiosdolias.github.io/portfolio23/contact/</guid>
       <description>Any feedback related to my projects is much appreciated! You can send me a message here by:
   using the contact form below, or:
   via LinkedIn.
-  Your Name Email Address Message    #fs-frm input, #fs-frm select, #fs-frm textarea, #fs-frm fieldset, #fs-frm optgroup, #fs-frm label, #fs-frm #card-element:disabled { font-family: inherit; font-size: 100%; color: inherit; border: none; border-radius: 0; display: block; width: 100%; padding: 0; margin: 0; -webkit-appearance: none; -moz-appearance: none; } #fs-frm label, #fs-frm legend, #fs-frm ::placeholder { font-size: .</description>
+  Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>
