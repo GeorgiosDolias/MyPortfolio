@@ -39,6 +39,16 @@
     </item>
     
     <item>
+      <title>Exploratory Data Analysis and Machine Learning with medical data</title>
+      <link>https://georgiosdolias.github.io/portfolio/post/project-16/</link>
+      <pubDate>Thu, 07 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/post/project-16/</guid>
+      <description>Recent advancements in data science render scientists capable of sorting, managing and analyzing large amounts of data more effectively and efficiently. One of the sectors where these new technologies have been applied is the healthcare industry, which is increasingly becoming more data-reliant due to vast quantities of patient and medical data. As a result, medical practices and patient care are significantly improved.
+ In this notebook, we will implement various techniques regarding the Exploratory Data Analysis (EDA) of medical data from different datasets and train various machine learning models for the prediction of important medical factors.</description>
+    </item>
+    
+    <item>
       <title>Anomaly detection</title>
       <link>https://georgiosdolias.github.io/portfolio/post/project-12/</link>
       <pubDate>Sun, 24 Mar 2019 10:58:08 -0400</pubDate>
