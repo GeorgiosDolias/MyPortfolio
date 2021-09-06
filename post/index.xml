@@ -69,6 +69,16 @@ Dataset The dataset of this project has been provided by NASA.</description>
     </item>
     
     <item>
+      <title>Statistical Analysis of data generated from games that include dice</title>
+      <link>https://georgiosdolias.github.io/portfolio/post/project-19/</link>
+      <pubDate>Tue, 07 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/post/project-19/</guid>
+      <description>In this project, we will perform statistical analysis based on data generated from games that include dice. More specifically, we will import two datasets and we will investigate if the roll of these dice was under fair conditions.
+1st Dataset First, we import the first dataset and visualise imported data. The first investigated dataset consists of several rolls of a die. The main information of the imported dataset can be seen in the following historgram:</description>
+    </item>
+    
+    <item>
       <title>Anomaly detection</title>
       <link>https://georgiosdolias.github.io/portfolio/post/project-12/</link>
       <pubDate>Sun, 24 Mar 2019 10:58:08 -0400</pubDate>
