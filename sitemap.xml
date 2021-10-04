@@ -4,27 +4,48 @@
   
   <url>
     <loc>https://georgiosdolias.github.io/portfolio/</loc>
-    <lastmod>2020-08-12T10:58:08-04:00</lastmod>
+    <lastmod>2021-10-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://georgiosdolias.github.io/portfolio/post/project-15/</loc>
-    <lastmod>2020-08-12T10:58:08-04:00</lastmod>
+    <loc>https://georgiosdolias.github.io/portfolio/post/project-18/</loc>
+    <lastmod>2021-10-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgiosdolias.github.io/portfolio/tags/machien-learning/</loc>
+    <lastmod>2021-10-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgiosdolias.github.io/portfolio/tags/medical-data/</loc>
+    <lastmod>2021-10-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://georgiosdolias.github.io/portfolio/tags/python/</loc>
-    <lastmod>2020-08-12T10:58:08-04:00</lastmod>
+    <lastmod>2021-10-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://georgiosdolias.github.io/portfolio/tags/</loc>
+    <lastmod>2021-10-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgiosdolias.github.io/portfolio/post/project-15/</loc>
     <lastmod>2020-08-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,27 +80,6 @@
   </url>
   
   <url>
-    <loc>https://georgiosdolias.github.io/portfolio/post/project-18/</loc>
-    <lastmod>2020-05-27T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgiosdolias.github.io/portfolio/tags/machien-learning/</loc>
-    <lastmod>2020-05-27T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgiosdolias.github.io/portfolio/tags/medical-data/</loc>
-    <lastmod>2020-05-27T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://georgiosdolias.github.io/portfolio/post/project-17/</loc>
     <lastmod>2020-05-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -89,13 +89,6 @@
   <url>
     <loc>https://georgiosdolias.github.io/portfolio/post/project-16/</loc>
     <lastmod>2020-05-07T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgiosdolias.github.io/portfolio/post/project-19/</loc>
-    <lastmod>2020-04-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

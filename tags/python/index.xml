@@ -6,10 +6,20 @@
     <description>Recent content in Python on George Dolias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://georgiosdolias.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EDA, ML and Flask API creation with medical data</title>
+      <link>https://georgiosdolias.github.io/portfolio/post/project-18/</link>
+      <pubDate>Sun, 03 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/post/project-18/</guid>
+      <description>Recent advancements in data science render scientists capable of sorting, managing and analyzing large amounts of data more effectively and efficiently. One of the sectors where these new technologies have been applied is the healthcare industry, which is increasingly becoming more data-reliant due to vast quantities of patient and medical data. As a result, medical practices and patient care are significantly improved.
+ In this notebook, we will implement various techniques regarding the Exploratory Data Analysis (EDA) of medical data from different datasets and then, train various machine learning models for the prediction of important medical factors.</description>
+    </item>
     
     <item>
       <title>Guaranteed TSP solutions in VLSI</title>
@@ -39,16 +49,6 @@
     </item>
     
     <item>
-      <title>Exploratory Data Analysis and Machine Learning with medical data</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-18/</link>
-      <pubDate>Wed, 27 May 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-18/</guid>
-      <description>Recent advancements in data science render scientists capable of sorting, managing and analyzing large amounts of data more effectively and efficiently. One of the sectors where these new technologies have been applied is the healthcare industry, which is increasingly becoming more data-reliant due to vast quantities of patient and medical data. As a result, medical practices and patient care are significantly improved.
- In this notebook, we will implement various techniques regarding the Exploratory Data Analysis (EDA) of medical data from different datasets and train various machine learning models for the prediction of important medical factors.</description>
-    </item>
-    
-    <item>
       <title>Statistical analysis with Meteorites data</title>
       <link>https://georgiosdolias.github.io/portfolio/post/project-17/</link>
       <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
@@ -66,16 +66,6 @@ Dataset The dataset of this project has been provided by NASA.</description>
       <guid>https://georgiosdolias.github.io/portfolio/post/project-16/</guid>
       <description>Recent advancements in data science render scientists capable of sorting, managing and analyzing large amounts of data more effectively and efficiently. One of the sectors where these new technologies have been applied is the healthcare industry, which is increasingly becoming more data-reliant due to vast quantities of patient and medical data. As a result, medical practices and patient care are significantly improved.
  In this notebook, we will implement various techniques regarding the Exploratory Data Analysis (EDA) of medical data from different datasets and train various machine learning models for the prediction of important medical factors.</description>
-    </item>
-    
-    <item>
-      <title>Statistical Analysis of data generated from games that include dice</title>
-      <link>https://georgiosdolias.github.io/portfolio/post/project-19/</link>
-      <pubDate>Tue, 07 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://georgiosdolias.github.io/portfolio/post/project-19/</guid>
-      <description>In this project, we will perform statistical analysis based on data generated from games that include dice. More specifically, we will import two datasets and we will investigate if the roll of these dice was under fair conditions.
-1st Dataset First, we import the first dataset and visualise imported data. The first investigated dataset consists of several rolls of a die. The main information of the imported dataset can be seen in the following historgram:</description>
     </item>
     
   </channel>

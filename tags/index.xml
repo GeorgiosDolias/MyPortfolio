@@ -6,15 +6,33 @@
     <description>Recent content in Tags on George Dolias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://georgiosdolias.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Machien learning</title>
+      <link>https://georgiosdolias.github.io/portfolio/tags/machien-learning/</link>
+      <pubDate>Sun, 03 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/tags/machien-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical data</title>
+      <link>https://georgiosdolias.github.io/portfolio/tags/medical-data/</link>
+      <pubDate>Sun, 03 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/tags/medical-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://georgiosdolias.github.io/portfolio/tags/python/</link>
-      <pubDate>Wed, 12 Aug 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 03 Oct 2021 10:58:08 -0400</pubDate>
       
       <guid>https://georgiosdolias.github.io/portfolio/tags/python/</guid>
       <description></description>
@@ -35,24 +53,6 @@
       <pubDate>Wed, 12 Aug 2020 10:58:08 -0400</pubDate>
       
       <guid>https://georgiosdolias.github.io/portfolio/tags/vlsi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machien learning</title>
-      <link>https://georgiosdolias.github.io/portfolio/tags/machien-learning/</link>
-      <pubDate>Wed, 27 May 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://georgiosdolias.github.io/portfolio/tags/machien-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medical data</title>
-      <link>https://georgiosdolias.github.io/portfolio/tags/medical-data/</link>
-      <pubDate>Wed, 27 May 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://georgiosdolias.github.io/portfolio/tags/medical-data/</guid>
       <description></description>
     </item>
     
